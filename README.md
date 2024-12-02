@@ -16,10 +16,10 @@ o	Use slicers and filters to allow users to drill down into specific segments of
 ## PowerBI dashboards
 ![bor bi](https://github.com/user-attachments/assets/a5678acb-8465-41fd-be90-bff706ea1676)
 
-##Benefits
+## Benefits
 •	Enhanced Insights: Gain deeper insights into survey data through interactive and visually appealing reports.
 •	Improved Decision Making: Empower stakeholders to make data-driven decisions based on survey results.
 •	User-Friendly Interface: Easy-to-use dashboards that can be explored by users with varying levels of technical expertise.
-##Conclusion
+## Conclusion
 Using Microsoft Power BI to analyze and visualize survey data provides a comprehensive and interactive way to understand survey results. This project showcases the ability to transform raw data into actionable insights.
  
